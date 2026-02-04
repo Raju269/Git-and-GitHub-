@@ -1,0 +1,55 @@
+Hey Everyone I will teach you Git and Github commands 
+lets start with base concept of git 
+What is Git ? 
+In simple words git is vcs means version control system got it.
+
+Now first we learn our basic commands like 
+git init 
+git add 
+git status 
+git commit 
+git log 
+
+this some basic commands to know that 
+lets start with git init 
+git inti means to create a git repository 
+they instal your local repo in your folder 
+
+then after you create a some file to write a code then if you track your code easy way to used git got it. 
+then you add a file to git track this file in stagging area ok 
+1st commands 
+git init 
+git add <filename> means you add a file in git repo to track your file of vcs then after you enter git add . the file is stagging area form then you are add some code and 
+track to code also then you used git commit 
+what is git commit 
+
+git commit -m "name of commit to track it . "
+
+then after its complete your code is now track 
+if you check this your is track aur not 
+type git log
+they show your all git commint histroy show 
+now lets 
+
+
+git init 
+git status 
+git add . 
+git commit -m "commit message :" 
+git status
+git log 
+git remote push main url: link
+git push -u main 
+
+this is baic commands 
+Command	Description
+git status	=> Shows the current status of the repository — staged, unstaged, and untracked files.
+git add <file-name> =>	Stages a specific file for commit. Use git add . to stage all changes.
+git commit -m "message" =>	Commits the staged changes with a descriptive commit message.
+git branch <branch-name>	=> Creates a new branch with the given name.
+git checkout <branch-name> =>	Switches to the specified branch.
+git merge <branch-name>	=> Merges changes from the given branch into the current branch.
+git push origin <branch-name> =>	Pushes the local branch changes to the remote repository.
+git pull origin <branch-name> =>	Fetches and merges changes from the remote repository into the local branch.
+git log	Displays the commit history for the current branch.
+Git Workflow
