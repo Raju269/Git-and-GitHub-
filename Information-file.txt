@@ -1,0 +1,2 @@
+This is basic file information 
+git commit -a -m "Update all tracked files with adding in stagging areas"
