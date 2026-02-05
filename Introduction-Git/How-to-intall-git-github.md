@@ -5,6 +5,7 @@
 Open your web browser.
 
 Go to the official Git website:
+
 👉 https://git-scm.com
 
 Click on Download for Windows.
