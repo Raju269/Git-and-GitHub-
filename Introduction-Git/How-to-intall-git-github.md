@@ -65,14 +65,13 @@ Set your username:
 
 git config --global user.name "Your Name"
 
-
 Set your email:
 
-git config --global user.email "your-email@example.com"
+git config --global user.email <your-email@example.com>
 
 ✅ Step 6: Install GitHub Desktop (Optional but Easy for Beginners)
 
-Go to 👉 https://desktop.github.com
+Go to 👉 <https://desktop.github.com>
 
 Download GitHub Desktop.
 
